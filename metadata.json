@@ -1,0 +1,7 @@
+{
+  "name": "Corretor de Provas IA Pro",
+  "description": "Aplicativo para professores corrigirem provas automaticamente usando IA e OCR. Faça upload de imagens de provas, forneça o gabarito e receba correções detalhadas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
